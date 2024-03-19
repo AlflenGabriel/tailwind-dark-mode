@@ -30,12 +30,12 @@ export default function Home() {
           <p className="text-sky-800 dark:text-neutral-300 text-2xl tracking-wide leading-relaxed">
             The next generation of web users are tech-savvy and suspicious. They
             know how to use dev tools, they can detect a phishing scam from a
-            mile away, and they certainly aren't accepting any checks from
+            mile away, and they certainly aren&apos;t accepting any checks from
             Western Union.
           </p>
           <p className="text-sky-800 dark:text-neutral-300 text-2xl tracking-wide leading-relaxed">
-            At DesignConference you'll learn about the latest dark patterns
-            being developed to trick even the smartest visitors, and you'll
+            At DesignConference you&apos;ll learn about the latest dark patterns
+            being developed to trick even the smartest visitors, and you&apos;ll
             learn how to deploy them without ever being detected.
           </p>
           <div className="flex gap-12">
